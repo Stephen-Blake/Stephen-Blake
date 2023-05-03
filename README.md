@@ -10,4 +10,10 @@ Stephen-Blake/Stephen-Blake is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 2 folders built and build
 - only stuff on here is apps
+Pythion, JS, TS, PHP, Also c csharp etc, laravel, reactjs, symphony
+Build small things
+Med things
+TYhing i built, ticket systyem, managmenet syustem, kennels, 
+backend and frontend
+Dentst, builders, resturants, delivery
 --->
