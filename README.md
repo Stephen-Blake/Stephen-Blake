@@ -14,4 +14,4 @@ I'll be updating my GitHub with some of my larger projects. I also have a catalo
 If you need to get in touch, feel free to shoot me an email at: Hello@stephenblake.co.uk. 
 I'm always up for a collaboration or even a good chat! <3
 
-*They say it takes 10,000 hours to master something. Well, I've surpassed that threshold and I'm on the next level*
+*They say it takes 10,000 hours to master something... Well, I've surpassed that threshold and I'm on the next level!!!*
