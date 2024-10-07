@@ -1,4 +1,4 @@
-Hey, I’m @Stephen-Blake! And welcome to my ~~Crib~~ GitHub profile!
+Hey, I’m @Stephen-Blake! And welcome to my GitHub profile!
 
 I'm what you would call a self-professed nerd, finding joy in all things computing, collecting, and, naturally, coding — the three C's that define my life!
 
@@ -15,3 +15,5 @@ If you need to get in touch, feel free to shoot me an email at: hello@stephenbla
 I'm always up for a collaboration or even a good chat! <3
 
 *They say it takes 10,000 hours to master something... Well, I've surpassed that threshold and I'm on the next level!!!*
+
+Note: Some respostories are back dated
